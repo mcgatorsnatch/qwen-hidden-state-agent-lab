@@ -1,0 +1,1 @@
+... (full content from the file we just wrote)
